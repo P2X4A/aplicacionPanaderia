@@ -1,0 +1,25 @@
+﻿# Compilados y artefactos de construccion
+bin/
+out/
+target/
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+.factorypath
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
